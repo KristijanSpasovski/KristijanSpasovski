@@ -19,4 +19,5 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristijanspasovski&layout=compact" alt="#" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=KristijanSpasovski)](https://git.io/streak-stats)
 </p>
